@@ -52,6 +52,11 @@ Turning ideas into scalable products, one commit at a time.
 
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,fastapi,express,mongodb,mysql,git,github,figma,postman,replit,rasa,jira&theme=dark" />
+</p>
+
+
 ## 🌐 Connect with Me
 
 <a href="https://www.linkedin.com/in/sohamgoelsg/">
@@ -61,10 +66,6 @@ Turning ideas into scalable products, one commit at a time.
 <a href="mailto:soham.goel@adypu.edu.in">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,fastapi,express,mongodb,mysql,git,github,figma,postman,replit,rasa,jira&theme=dark" />
-</p>
 
 
 ## 🏆 GitHub Achievements
