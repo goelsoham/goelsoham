@@ -67,4 +67,10 @@ Turning ideas into scalable products, one commit at a time.
   <img src="https://streak-stats.demolab.com?user=goelsoham&theme=radical&hide_border=false" />
 </p>
 
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=goelsoham&theme=radical&no-frame=true&margin-w=15" />
+</p>
+
 
