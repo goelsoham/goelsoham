@@ -62,10 +62,10 @@ Turning ideas into scalable products, one commit at a time.
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=goelsoham&theme=radical&hide_border=false" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,fastapi,express,mongodb,mysql,git,github,figma,postman,replit,rasa,jira&theme=dark" />
 </p>
+
 
 ## 🏆 GitHub Achievements
 
