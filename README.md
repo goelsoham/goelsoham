@@ -2,6 +2,18 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00F700&center=true&vCenter=true&width=600&lines=Hey+I'm+Soham+Goel+👋;Full+Stack+Developer+💻;AI+%2B+ML+Enthusiast+🤖;Open+Source+Contributor+🌍;Always+learning+new+things!+🚀)](https://git.io/typing-svg)
 
+
+<p align="center">
+  <img src="https://media.tenor.com/2DyY0gD0V14AAAAC/coding.gif" width="300">
+</p>
+
+### <p align="center">🌟 Passionate Developer | AI-ML Explorer | Open Source Contributor</p>
+
+<p align="center">
+Turning ideas into scalable products, one commit at a time.
+</p>
+
+
 ## 🚀 My Tech Stack
 
 <p align="left">
